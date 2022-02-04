@@ -1,0 +1,15 @@
+{
+    "name": "Pradeep Kumar",
+    "short_name": "pkanvi.com",
+    "background_color": "#1976d2",
+    "theme_color": "#1976d2",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "favicon-194x194.png",
+            "sizes": "194x194 512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/?utm_source=homescreen"
+}
